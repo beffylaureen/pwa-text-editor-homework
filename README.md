@@ -6,9 +6,9 @@
 
 
 
-## <img src="./ " alt = Screenshot" />
+## <img src="./assets/Screenshot 2023-08-28 at 9.21.08 PM.png" alt = "Screenshot" />
 
 ## https://github.com/beffylaureen/pwa-text-editor-homework
-## https://drive.google.com/file
+## https://pwa-text-editor-fun-a73778eada29.herokuapp.com/
 
 
