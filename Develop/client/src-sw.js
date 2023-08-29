@@ -66,7 +66,7 @@ registerRoute(({ request }) => request.mode === 'navigate', pageCache);
   array. There is an array method called includes() which does this.
 
   Once we have identified a viable route, we will instantiate the strategy we wish 
-  to use. Remember that it's called StateWhileRevalidate.
+  to use. Remember that it's called StaleWhileRevalidate.
 
   If you supply the correct values below, this file is complete.
 */

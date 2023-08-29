@@ -1,6 +1,4 @@
-/*
-  The idb package being required below provides some syntactic sugar around the methods needed to work with IndexedDB. Yes, the code you see below is actually a "prettier" version of what you would normally have to write. Be thankful. We've only been using the idb package since mid 2022. Before that students had to write this code with no helper methods. These students deserve a medal.
-*/
+
 import { openDB } from 'idb';
 
 // We will define a global constant for our database name so we don't mess it up anywhere
